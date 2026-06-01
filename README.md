@@ -54,15 +54,13 @@ The report is built as a **narrative**, one page per step. Each investigation pa
 
 ## 📊 The Dashboard
 
-> Replace these with your screenshots from the `/screenshots` folder.
-
 | Cover | Overview ("The Alarm") |
 |---|---|
 | ![Cover](./screenshots/01-cover.png) | ![Overview](./screenshots/02-overview.png) |
 
 | Root Cause | Recommendations |
 |---|---|
-| ![Root Cause](./screenshots/07-root-cause.png) | ![Action](./screenshots/08-action.png) |
+| ![Root Cause]("C:\Users\user\Desktop\PowerBI\Cover.png") | ![Action](./screenshots/08-action.png) |
 
 ---
 

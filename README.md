@@ -106,8 +106,7 @@ Other measures: `% Below SLA`, `% Long Calls`, `% Negative Sentiment`, `Avg CSAT
 
 ## 📁 Repository Structure
 
-(https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice)](https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice)
-
+https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice
 ---
 
 ## 🧰 Tools & Skills Demonstrated

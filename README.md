@@ -105,3 +105,25 @@ Other measures: `% Below SLA`, `% Long Calls`, `% Negative Sentiment`, `Avg CSAT
 ---
 
 ## 📁 Repository Structure
+
+---
+
+## 🧰 Tools & Skills Demonstrated
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-512BD4?style=flat)
+![Power Query](https://img.shields.io/badge/Power_Query-2C5F2D?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-185FA5?style=flat)
+
+Data modeling (star schema) · DAX (including null-safe NPS) · Power Query · drill-through · data storytelling · honest data visualization.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofonsecamarcelo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.dafonsecaoliveira@gmail.com)
+
+---
+
+*Dataset provided as part of a Data Visualization course exercise. The narrative, analysis, design, and recommendations are my own work.*

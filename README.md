@@ -60,7 +60,7 @@ The report is built as a **narrative**, one page per step. Each investigation pa
 
 | Root Cause | Recommendations |
 |---|---|
-|<img width="962" height="547" alt="Root Cause" src="https://github.com/user-attachments/assets/82717342-d9ef-485c-afce-fd056ef725b7" /> |(<img width="967" height="547" alt="Action" src="https://github.com/user-attachments/assets/42137563-6916-47fc-af0c-9da7c24a6b40" />|
+|<img width="962" height="547" alt="Root Cause" src="https://github.com/user-attachments/assets/82717342-d9ef-485c-afce-fd056ef725b7" /> |<img width="967" height="547" alt="Action" src="https://github.com/user-attachments/assets/42137563-6916-47fc-af0c-9da7c24a6b40" />|
 
 ---
 

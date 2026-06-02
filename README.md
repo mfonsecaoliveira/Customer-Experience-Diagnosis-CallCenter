@@ -8,7 +8,7 @@
 
 > Instead of plotting charts to satisfy a brief, this report walks the reader through a diagnosis: a problem, a chain of eliminated suspects, a root cause, and a prioritized recommendation.
 
-📂 **[Download the .pbix]("C:\Users\user\Desktop\Storytelling - CallCenter.pbix")**
+📂 **[Download the .pbix](data/Storytelling - CallCenter.pbix)**
 
 ---
 

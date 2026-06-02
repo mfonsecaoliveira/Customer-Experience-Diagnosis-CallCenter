@@ -14,9 +14,9 @@
 
 ## 🎯 The Business Problem
 
-A call center closed 2020 with customers in clear distress. The leadership question wasn't *"what happened?"* — it was the harder one:
+A call center closed 2020 with customers in clear distress. The leadership question wasn't *"what happened?"*, it was the harder one:
 
-> **Why are our customers so dissatisfied — and where should we act first?**
+> **Why are our customers so dissatisfied and where should we act first?**
 
 This report answers it with a dataset of **13,055 interactions** spanning Jan–Dec 2020, across four channels, six contact reasons, and the full United States.
 
@@ -27,7 +27,7 @@ This report answers it with a dataset of **13,055 interactions** spanning Jan–
 | Metric | Value | What it means |
 |---|---|---|
 | **NPS** | **−69** | Detractors outnumber promoters more than 10 to 1 |
-| **Average CSAT** | **3.41 / 7** | Below "Neutral" — the average customer leaves unhappy |
+| **Average CSAT** | **3.41 / 7** | Below "Neutral" (the average customer leaves unhappy) |
 | **Negative sentiment** | **51%** | Over half of all interactions |
 | **Below SLA** | **24.5%** | 1 in 4 calls poorly handled |
 | **Long calls (>20 min)** | **61%** | A slow operation |
@@ -41,10 +41,10 @@ The report is built as a **narrative**, one page per step. Each investigation pa
 | Page | The question | The verdict |
 |---|---|---|
 | 🏠 **Overview** | How bad is it? | Critical: NPS −69, satisfaction systemically low |
-| 💬 **Channel** | Is one channel to blame? | ❌ No — CSAT flat across all (3.3–3.5) |
-| ❓ **Reason** | Is one reason to blame? | ❌ No — but Payment + Billing = **77%** of volume |
-| 🗺️ **Geography** | Is one region/site to blame? | ❌ No — volume only tracks population |
-| 📅 **Seasonality** | Is it seasonal? | ❌ No — volume flat all year (~1,090/month) |
+| 💬 **Channel** | Is one channel to blame? | ❌ No - CSAT flat across all (3.3–3.5) |
+| ❓ **Reason** | Is one reason to blame? | ❌ No - but Payment + Billing = **77%** of volume |
+| 🗺️ **Geography** | Is one region/site to blame? | ❌ No - volume only tracks population |
+| 📅 **Seasonality** | Is it seasonal? | ❌ No - volume flat all year (~1,090/month) |
 | 🎯 **Root Cause** | So what *is* it? | ✅ A **systemic operational** problem |
 | 💡 **Action** | Where do we act first? | Fix efficiency + deflect money-related demand |
 

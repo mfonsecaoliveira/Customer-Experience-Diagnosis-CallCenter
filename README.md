@@ -56,11 +56,11 @@ The report is built as a **narrative**, one page per step. Each investigation pa
 
 | Cover | Overview ("The Alarm") |
 |---|---|
-|<img width="967" height="547" alt="Cover" src="https://github.com/user-attachments/assets/a5e883ad-04b7-4a8d-842d-d8411bd2339f" /> |<img width="972" height="552" alt="Overview" src="https://github.com/user-attachments/assets/2ef2af5e-b111-41b6-b350-bd81d1fa0f31" />|
+|<img width="967" height="547" alt="Cover" src="https://github.com/user-attachments/assets/a5e883ad-04b7-4a8d-842d-d8411bd2339f" /> |<img width="967" height="547" alt="Overview" src="https://github.com/user-attachments/assets/2ef2af5e-b111-41b6-b350-bd81d1fa0f31" />|
 
 | Root Cause | Recommendations |
 |---|---|
-|<img width="962" height="547" alt="Root Cause" src="https://github.com/user-attachments/assets/82717342-d9ef-485c-afce-fd056ef725b7" /> |<img width="967" height="547" alt="Action" src="https://github.com/user-attachments/assets/42137563-6916-47fc-af0c-9da7c24a6b40" />|
+|<img width="967" height="547" alt="Root Cause" src="https://github.com/user-attachments/assets/82717342-d9ef-485c-afce-fd056ef725b7" /> |<img width="967" height="547" alt="Action" src="https://github.com/user-attachments/assets/42137563-6916-47fc-af0c-9da7c24a6b40" />|
 
 ---
 
